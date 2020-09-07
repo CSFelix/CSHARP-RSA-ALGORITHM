@@ -42,7 +42,16 @@
 ----
 ### `🎁 Bonus 🎁`
 
-* Curiosite: about my **CSHARP-FERMAT-METHOD-RSA-ATTACK** repository, I mentioned that I developed it in order to test a program. So, this is the program!
+* The login's credentials are:
+
+```
+- login: cc2p14
+- password: uniparacatuba
+
+- CUMI: ON - EN | ON - PT | OFF - EN | OFF - PT
+```
+
+* Curiosity: about my **CSHARP-FERMAT-METHOD-RSA-ATTACK** repository, I mentioned that I developed it in order to test a program. So, this is the program!
 
 * Into *DLL's* folder there are two dlls: Stsrem.Numerics and System.Speech, being:
 
