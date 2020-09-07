@@ -1,0 +1,59 @@
+Lista de Comandos da CUMI:
+
+------------------
+
+ - Inglês:
+ 0) sleep: desativação da CUMI
+ 1) wake: ativação da CUMI
+ 2) mute: desativação dos comandos de voz da CUMI
+ 3) sound: ativação dos comandos de voz da CUMI
+ 4) cumi: chama a atenção da CUMI (utilizo ele para ter certeza de que a CUMI está ativada ou não)
+ 5) facebook: inicialização do Facebook
+ 6) google: inicialização do Google
+ 7) google image: icinicalização do Google Image
+ 8) linkedin: inicialização do Linkedin
+ 9) outlook: inicialização do Outlook
+ 10) yahoo: inicialização do Yahoo
+ 11) youtube: inicialização do Youtube
+ 12) google search: ativação da função de pesquisa no Google
+ 13) google image search: ativação da função de pesquisa no Google Image
+ 14) yahoo search: ativação da função de pesquisa no Yahoo
+ 15) youtube search: ativação da função de pesquisa do Youtube
+ 16) calculator: inicialização da Calculadora
+ 17) excel: inicialização do Excel
+ 18) word: inicialziação do Word
+ 
+
+------------------
+
+ - Português:
+ 0) durma: desativação da CUMI
+ 1) acorde: ativação da CUMI
+ 2) mudo: desativação dos comandos de voz da CUMI
+ 3) som: ativação dos comandos de voz da CUMI
+ 4) cumi: chama a atenção da CUMI (utilizo ele para ter certeza de que a CUMI está ativada ou não)
+ 5) facebook: inicialização do Facebook
+ 6) google: inicialização do Google
+ 7) google image: icinicalização do Google Image
+ 8) linkedin: inicialização do Linkedin
+ 9) outlook: inicialização do Outlook
+ 10) yahoo: inicialização do Yahoo
+ 11) youtube: inicialização do Youtube
+ 12) google pesquisa: ativação da função de pesquisa no Google
+ 13) google image pesquisa: ativação da função de pesquisa no Google Image
+ 14) yahoo pesquisa: ativação da função de pesquisa no Yahoo
+ 15) youtube pesquisa: ativação da função de pesquisa do Youtube
+ 16) calculadora: inicialização da Calculadora
+ 17) excel: inicialização do Excel
+ 18) word: inicialziação do Word
+
+------------------
+
+ Observações:
+ 1) Todos os comandos de ativação das pesquisas pela web funcionam da seguinte maneira:
+  1.1) Digitação o comando;
+  1.2) Após a label ser limpa, digitação do que deseja ser pesquisado.
+ 
+ 2) O comando #4 é utilizado apenas para se ter certeza de que a CUMI está ativada ou não:
+  2.1) Se ela responder: está ativada;
+  2.2) Se ela não responder: está desativada ou muda.

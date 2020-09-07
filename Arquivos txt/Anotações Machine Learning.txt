@@ -1,0 +1,10 @@
+DLL'S
+ - System.Numerics: permite trabalhar com números extremamente grandes com o uso do dados composto BigInteger (sua função são as mesmas que a da classe Math)
+ - System.Speech: permite trabalhar com sons e strings concomitantemente com o uso do objeto Sinthesizer (System.Speech.Synthesis -- responsável por transformar string em som para a máquina falar com o usuário) e do Recognization (System.Speech.Recognization -- responsável por transformar som em string para o usuário falar com a maquina). Para usar o Recognition, é necessário ter um microfone, coisa que não se encaixa no meu caso (não tenho microfone '-').
+ Outros objetos ajudam na comunicação, como, por exemplo, do método Speak (faz a máquina emitir sons de System.Speech.Synthesis) e da struct Grammar e Choices (adiciona comandos de voz reconhecidos pela máquina e a lista de tais comandos respectivamente).
+
+Linguagens
+ - Python: estruturação da rede neural;
+ - R: análises de probabilidades, estatísticas e gráficos;
+ - NoSQL: informações gigantes armazenadas;
+ - SQL: informações gigantes compactadas e armazenadas

@@ -1,0 +1,90 @@
+**** TELA DE LOGIN ****
+
+--------------------
+
+ - login: cc2p14
+ - senha: uniparacatuba
+ - cumi: ON - PT, ON - EN, OFF - PT, OFF - EN
+
+--------------------
+
+**** RSA ****
+
+--------------------
+
+Primeiro Conjunto:
+
+ - chave pública: 13
+ - chave privada: 237
+ - chave mista: 667 (10 bits)
+ - fatoração prima: 23 * 29
+ - qnt de co-primos da chave mista: 616
+ - inverso modular da chave mista: 5
+
+--------------------
+
+Segundo Conjunto:
+
+ - chave pública: 13
+ - chave privada: 17197
+ - chave mista: 75067 (17 bits)
+ - fatoração prima: 277 * 271
+ - qnt de co-primos da chave mista: 74520
+ - inverso modular da chave mista: 3
+
+--------------------
+
+Terceiro Conjunto:
+
+ - chave pública: 997
+ - chave privada: 35653
+ - chave mista: 75067 (17 bits)
+ - fatoração prima: 277 * 271
+ - qnt de co-primos da chave mista: 74520
+ - inverso modular da chave mista: 477
+
+--------------------
+
+Quarto Conjunto:
+
+ - chave pública: 23
+ - chave privada: 287
+ - chave mista: 707 (10 bits)
+ - fatoração prima: 7 * 101
+ - qnt de co-primos da chave mista: 600
+ - inverso modular da chave mista: 11
+
+--------------------
+
+Quinto Conjunto:
+	
+ - chave pública: 59
+ - chave privada: -421 --> 659
+ - chave mista: 1147 (11 bits)
+ - fatoração prima: 31 * 37
+ - qnt de co-primos da chave mista: 1080
+ - inverso modular da chave mista: 23
+
+--------------------
+
+Sexto Conjunto (Ela trava meu computador no momento da decriptação):
+	
+ - chave pública: 29
+ - chave privada: -86517812 --> 106452341
+ - chave mista: 193001273 (28 bits)
+ - fatoração prima: 52747 * 3659
+ - qnt de co-primos da chave mista: 86517812
+ - inverso modular da chave mista: 13
+
+--------------------
+
+Sétimo Conjunto:
+
+ - chave pública: 17
+ - chave privada: -247 --> 353
+ - chave mista: 707 (10 bits)
+ - fatoração prima: 7 * 101
+ - qnt de co-primos da chave mista: 600
+ - inverso modular da chave mista: 7
+
+--------------------

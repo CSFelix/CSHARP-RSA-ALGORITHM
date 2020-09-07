@@ -1,0 +1,39 @@
+// Criptografia usada: RSA
+        /*
+         * 1. Dois estilos de chaves foram usadas, uma para mensagens de até 64 caracteres e outra até 128.
+        
+         * Até 64 caracteres:
+
+         * -chave pública: 13
+         * - chave privada: 237
+         * - chave mista: 667
+         * - fatoração prima: 23 * 29
+         * - qnt de co-primos da chave mista: 616
+
+         * --------------------
+
+         * Até 128 caracteres:
+
+         * -chave pública: 13
+         * - chave privada: 17197
+         * - chave mista: 75067
+         * - fatoração prima: 277 * 271
+         * - qnt de co-primos da chave mista: 74520
+
+         * --------------------
+
+         * Reserva:
+
+         * - chave pública: 997
+         * - chave privada: 35653
+         * - chave mista: 75067
+         * - fatoração prima: 277 * 271
+         * - qnt de co-primos da chave mista: 74520
+       */
+
+        // Seção de observações
+        // 1. Todas as três sequências de chaves funcionaram perfeitamente. 
+        // 2. Cada char é representado por um número de cinco dígitos (00000 - 99999).
+        // 3. Quando um número de cinco dígitos que corresponde a nenhum char é enviado para descriptografar, o resultado é o ponto de interrogação(?). 
+        // 3.(solução): uso do caractere underline(_) para substituir a interrogação e evitar ambiguidades.
+        // 4. O Console.ReadLine() tem um limite que acaba prejudicando a descriptação, porém, na GUI isso pode ser resolvido!.

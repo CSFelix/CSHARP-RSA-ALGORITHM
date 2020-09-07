@@ -1,0 +1,43 @@
+FATORAÇÃO DE NÚMEROS PELO MÉTODO DE FERMAT
+- PASSO 0:
+ Escolha um número inteiro qualquer "n" e calcule seu suporte, sendo:
+
+	suport_n = floor((n + 1) / 2)
+
+- PASSO 1:
+ Calcule sqrt(n). Se este 
+1 = sqrt(n) e p2 = sqrt(n) e o processo terminou.
+ Caso não for um inteiro, vá para o passo 2.
+
+- PASSO 2:
+ Defina a variável "b" como floor(sqrt(n))
+ Calcule "x", em que:
+ 
+	x = b + 1
+
+ Verifique se "x" é igual a "suport_n", caso seja, "n" é primo, sua fatoração prima será p1 = 1 e p2 = "n" e o processo terminou.
+ Caso contrário, vá para o passo 3.
+
+ - PASSO 3:
+  Calcule "y" e seu suporte, em que:
+
+	y = sqrt(x ** 2 - n)
+	
+	suport_y = floor(y)
+  Se "y" for igual a "suport_y", "n" é composto, sua fatoração prima será p1 = x - y e p2 = x + y e o processo teminou.
+ Caso contrário, considere b += 1 e retorne ao passo 2.
+
+Teste:
+n = 667
+suport_n = 334
+sqrt_n = 25,82
+
+b = 25
+x = 26
+
+y = 3
+suport_y = 3
+
+p1 = x - y --> 26 - 3 = 23
+p2 = x + y --> 26 + 3 = 29
+ 
