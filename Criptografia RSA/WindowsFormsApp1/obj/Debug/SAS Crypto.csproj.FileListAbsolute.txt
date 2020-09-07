@@ -1,0 +1,21 @@
+C:\Users\Gabriel\Desktop\Criptografia\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Gabriel\Desktop\Criptografia\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Gabriel\Desktop\Criptografia\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Gabriel\Desktop\Criptografia\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\SAS Crypto.csprojAssemblyReference.cache
+C:\Users\Gabriel\Desktop\Criptografia\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+C:\Users\Gabriel\Desktop\Criptografia\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Inicio.resources
+C:\Users\Gabriel\Desktop\Criptografia\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Criptacao.resources
+C:\Users\Gabriel\Desktop\Criptografia\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Relatorio.resources
+C:\Users\Gabriel\Desktop\Criptografia\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Carregando.resources
+C:\Users\Gabriel\Desktop\Criptografia\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Imagens_relatorio.resources
+C:\Users\Gabriel\Desktop\Criptografia\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Criptacao_imagens.resources
+C:\Users\Gabriel\Desktop\Criptografia\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Gabriel\Desktop\Criptografia\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\SAS Crypto.csproj.GenerateResource.cache
+C:\Users\Gabriel\Desktop\Criptografia\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\SAS Crypto.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\Criptografia\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Gabriel\Desktop\Criptografia\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Gabriel\Desktop\Criptografia\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Densidade_Mensagens.resources
+C:\Users\Gabriel\Desktop\Criptografia\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Interop.EnvDTE.dll
+C:\Users\Gabriel\Desktop\Criptografia\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Interop.VSLangProj.dll
+C:\Users\Gabriel\Desktop\Criptografia\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\SAS Crypto.csproj.ResolveComReference.cache
+C:\Users\Gabriel\Desktop\Criptografia\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CMD_cumi.resources
