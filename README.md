@@ -59,3 +59,12 @@
 - System.Numerics: used to proccess large integers numbers (BigInteger class);
 - System.Speech: used to CUMI speak with us.
 ```
+
+----
+### `✉️ Contact ✉️`
+
+> **Email:** `gabrielfelix08@outlook.com`
+
+> **Linkedin:** `---`
+
+> **Instagram:** `---`
